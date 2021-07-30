@@ -1,3 +1,6 @@
 # El dataset fue encontrado en KAGGEL 
+https://www.kaggle.com/omkargurav/face-mask-dataset
+
 # Tambien descargamos imagenes de google a travez del Generador de imagenes.ipynb
+
 # Y logramos crear un notebook, para activar la camara y guardar imagenes y luego probralas 
